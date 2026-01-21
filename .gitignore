@@ -1,0 +1,12 @@
+venv/
+.env
+
+__pycache__/
+*.pyc
+
+training/data/
+data/
+*.pth
+*.h5
+
+.DS_Store
